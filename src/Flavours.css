@@ -2,14 +2,14 @@
   height: 100vh;
   width: 100vw;
   padding: 20px;
-  background-color: #f6f4f1; /* Light background color */
+  background-color: #f6f4f1;
   text-align: center;
-  overflow-y: auto; /* Allow vertical scrolling */
+  overflow-y: auto;
 }
 
 .flavours-title {
   margin-bottom: 20px;
-  color: #6f4e37; /* Coffee-like color */
+  color: #6f4e37;
   font-size: 3rem;
 }
 
