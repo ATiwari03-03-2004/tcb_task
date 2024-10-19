@@ -1,0 +1,32 @@
+* {
+  overflow-x: hidden;
+}
+
+.about-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f6f4f1;
+  padding: 20px;
+}
+
+.about-container h1 {
+  font-size: 3rem;
+  color: #6f4e37;
+  margin-bottom: 20px;
+}
+
+.about-container p {
+  font-size: 1.2rem;
+  color: #555;
+  line-height: 1.6;
+  max-width: 800px;
+}
+
+.about-container p:last-of-type {
+  margin-top: 30px;
+}
